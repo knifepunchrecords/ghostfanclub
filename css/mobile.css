@@ -1,0 +1,121 @@
+body{
+	background-color: #FFFFFF;
+  background-image: url(../img/bg.png);
+	text-align: center;
+}
+
+p{
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	font-weight: normal;
+	color: #E7D2A6;
+	letter-spacing: 2pt;
+	word-spacing: 4pt;
+	font-size: 12px;
+	text-align:center;
+	font-family: helvetica, sans-serif;
+	line-height: 1.5;
+}
+
+h2{
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	font-weight: normal;
+	color: #E7D2A6;
+	font-size: 22px;
+	text-align:center;
+	font-family: helvetica, sans-serif;
+	line-height: 1;
+}
+
+h2.tPad{
+	padding-top: 50px;
+}
+
+}
+
+a:link {
+    color: #d35b1e;
+    text-decoration: none;
+}
+a:visited {
+    color: #d35b1e;
+    text-decoration: none;
+}
+a:hover {
+    color: #725a3b;
+    text-decoration: none;
+}
+a:active {
+    color: #000000;
+    text-decoration: none;
+}
+
+.cover{
+	margin: auto;
+	width: 50%;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+.credits {
+  
+}
+
+#title{
+
+}
+
+#albumart{
+
+}
+
+#soundcloud{
+float: none;
+position: relative;
+width: 640px;
+left: 100px;
+}
+
+#description{
+
+}
+
+}
+
+#socials{
+float: none;
+clear: both;
+position: relative;
+width: 800px;
+left: : 10px;
+}
+
+#pastwork{
+float: none;
+clear: both;
+display: block;
+position: relative;
+left: 10px;
+}
+
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
